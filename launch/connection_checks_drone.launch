@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="connection_checks_drone" name="connection_checks" type="connection_checks.py" output="screen"></node>
+</launch>
